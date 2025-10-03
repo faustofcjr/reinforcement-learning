@@ -1,2 +1,2 @@
 # reinforcement-learning
-Repository contains experimental source code aimed at the study and implementation of Reinforcement Learning algorithms.
+This repository contains experimental source code focused on the study and implementation of Reinforcement Learning (RL) algorithms. The goal is to explore concepts, test ideas, reproduce papers, books, and develop small proofs of concept related to the field. The experiments range from simple implementations of classic algorithms to more advanced or customized adaptations for specific scenarios.
